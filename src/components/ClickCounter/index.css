@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.heading {
+  text-align: center;
+  padding-top: 20px;
+  color: #2d3a35;
+}
+.count {
+  color: #c20a72;
+}
+.content {
+  text-align: center;
+}
+.button {
+  margin-left:650px;
+  padding: 4px;
+  color: white;
+  border:none;
+  background-color: #007bff;
+}
